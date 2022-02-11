@@ -38,3 +38,4 @@ print(a)
 ## OUTPUT:
 ![output](inv.png)
 ## RESULT:
+Thus python program to find inverse of matrix is done.
