@@ -22,6 +22,8 @@ End the program.
 
 ## PROGRAM:
 ```
+#Developed by: Jegathish s
+#Register number: 212221230041
 import numpy as np
 n=int(input())
 m=int(input())
